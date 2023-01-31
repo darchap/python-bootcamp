@@ -5,4 +5,3 @@ f.close()
 f = open("archivo.txt", "a")
 f.write("Segundo acceso")
 f.close()
-
